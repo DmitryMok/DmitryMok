@@ -1,16 +1,18 @@
-## Hi there 👋
+# Дмитрий
 
-<!--
-**DmitryMok/DmitryMok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разработчик (Python: CV/ML, UAV)
 
-Here are some ideas to get you started:
+Сейчас делаю **AI Tutor** — ИИ-наставник, который учит эффективно работать с ИИ-агентами
+* [ai-tutor](https://github.com/DmitryMok/ai-tutor)
+* [tutor.diworld.pro](https://tutor.diworld.pro)
+* [ai-tutor tg](https://t.me/ai_tutor_pro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О методологии
+Методология AI Tutor — не пересказ чужих статей, а результат, в котором сошлось:
+  - многолетний инженерный опыт и управление проектами разного масштаба, несколько лет
+    тимлидерства в разработке
+  - профессиональный опыт обучения нейронных сетей
+  - пользователь ChatGPT с первого дня его существования
+  - изучение практик разработки в терминале, в том числе того, как это делают разрабочики в таких компаниях как Google и т.п.
+  - современные концепций работы LLM-агентов — например, подход «память в markdown» Андрея Карпатого
+  - методология улучшается на собственных проектах с начала 2026 года
