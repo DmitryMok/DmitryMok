@@ -1,6 +1,4 @@
-# Дмитрий
-
-Разработчик (Python: CV/ML, UAV)
+Team Lead & Python Developer (CV/ML, UAV)
 
 Сейчас делаю **AI Tutor** — ИИ-наставник, который учит эффективно работать с ИИ-агентами
 * [ai-tutor](https://github.com/DmitryMok/ai-tutor)
